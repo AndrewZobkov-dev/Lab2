@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1588246129 source:c:\users\zand2\onedrive\Рабочий стол\lab 2\main.cpp
+	"Window.h"
+
+1588246121 c:\users\zand2\onedrive\Рабочий стол\lab 2\window.h
+	<iostream>
+	<cstring>
+
+1588246510 source:c:\users\zand2\onedrive\Рабочий стол\lab 2\window.cpp
+	"Window.h"
+
